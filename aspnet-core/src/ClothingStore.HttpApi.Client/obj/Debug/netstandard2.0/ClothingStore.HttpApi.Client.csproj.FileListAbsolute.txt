@@ -1,0 +1,15 @@
+D:\ABPClothingStore\ClothingStore\aspnet-core\src\ClothingStore.HttpApi.Client\bin\Debug\netstandard2.0\ClothingStore.HttpApi.Client.deps.json
+D:\ABPClothingStore\ClothingStore\aspnet-core\src\ClothingStore.HttpApi.Client\bin\Debug\netstandard2.0\ClothingStore.HttpApi.Client.dll
+D:\ABPClothingStore\ClothingStore\aspnet-core\src\ClothingStore.HttpApi.Client\bin\Debug\netstandard2.0\ClothingStore.HttpApi.Client.pdb
+D:\ABPClothingStore\ClothingStore\aspnet-core\src\ClothingStore.HttpApi.Client\bin\Debug\netstandard2.0\ClothingStore.Application.Contracts.dll
+D:\ABPClothingStore\ClothingStore\aspnet-core\src\ClothingStore.HttpApi.Client\bin\Debug\netstandard2.0\ClothingStore.Domain.Shared.dll
+D:\ABPClothingStore\ClothingStore\aspnet-core\src\ClothingStore.HttpApi.Client\bin\Debug\netstandard2.0\ClothingStore.Application.Contracts.pdb
+D:\ABPClothingStore\ClothingStore\aspnet-core\src\ClothingStore.HttpApi.Client\bin\Debug\netstandard2.0\ClothingStore.Domain.Shared.pdb
+D:\ABPClothingStore\ClothingStore\aspnet-core\src\ClothingStore.HttpApi.Client\obj\Debug\netstandard2.0\ClothingStore.HttpApi.Client.csproj.AssemblyReference.cache
+D:\ABPClothingStore\ClothingStore\aspnet-core\src\ClothingStore.HttpApi.Client\obj\Debug\netstandard2.0\ClothingStore.HttpApi.Client.GeneratedMSBuildEditorConfig.editorconfig
+D:\ABPClothingStore\ClothingStore\aspnet-core\src\ClothingStore.HttpApi.Client\obj\Debug\netstandard2.0\ClothingStore.HttpApi.Client.AssemblyInfoInputs.cache
+D:\ABPClothingStore\ClothingStore\aspnet-core\src\ClothingStore.HttpApi.Client\obj\Debug\netstandard2.0\ClothingStore.HttpApi.Client.AssemblyInfo.cs
+D:\ABPClothingStore\ClothingStore\aspnet-core\src\ClothingStore.HttpApi.Client\obj\Debug\netstandard2.0\ClothingStore.HttpApi.Client.csproj.CoreCompileInputs.cache
+D:\ABPClothingStore\ClothingStore\aspnet-core\src\ClothingStore.HttpApi.Client\obj\Debug\netstandard2.0\Clothing.0DD929C5.Up2Date
+D:\ABPClothingStore\ClothingStore\aspnet-core\src\ClothingStore.HttpApi.Client\obj\Debug\netstandard2.0\ClothingStore.HttpApi.Client.dll
+D:\ABPClothingStore\ClothingStore\aspnet-core\src\ClothingStore.HttpApi.Client\obj\Debug\netstandard2.0\ClothingStore.HttpApi.Client.pdb

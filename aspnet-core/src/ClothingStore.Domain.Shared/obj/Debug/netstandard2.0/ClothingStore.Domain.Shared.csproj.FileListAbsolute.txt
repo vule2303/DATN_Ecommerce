@@ -1,0 +1,11 @@
+D:\ABPClothingStore\ClothingStore\aspnet-core\src\ClothingStore.Domain.Shared\bin\Debug\netstandard2.0\ClothingStore.Domain.Shared.deps.json
+D:\ABPClothingStore\ClothingStore\aspnet-core\src\ClothingStore.Domain.Shared\bin\Debug\netstandard2.0\ClothingStore.Domain.Shared.dll
+D:\ABPClothingStore\ClothingStore\aspnet-core\src\ClothingStore.Domain.Shared\bin\Debug\netstandard2.0\ClothingStore.Domain.Shared.pdb
+D:\ABPClothingStore\ClothingStore\aspnet-core\src\ClothingStore.Domain.Shared\obj\Debug\netstandard2.0\ClothingStore.Domain.Shared.csproj.AssemblyReference.cache
+D:\ABPClothingStore\ClothingStore\aspnet-core\src\ClothingStore.Domain.Shared\obj\Debug\netstandard2.0\ClothingStore.Domain.Shared.EmbeddedFilesManifest.cache
+D:\ABPClothingStore\ClothingStore\aspnet-core\src\ClothingStore.Domain.Shared\obj\Debug\netstandard2.0\ClothingStore.Domain.Shared.GeneratedMSBuildEditorConfig.editorconfig
+D:\ABPClothingStore\ClothingStore\aspnet-core\src\ClothingStore.Domain.Shared\obj\Debug\netstandard2.0\ClothingStore.Domain.Shared.AssemblyInfoInputs.cache
+D:\ABPClothingStore\ClothingStore\aspnet-core\src\ClothingStore.Domain.Shared\obj\Debug\netstandard2.0\ClothingStore.Domain.Shared.AssemblyInfo.cs
+D:\ABPClothingStore\ClothingStore\aspnet-core\src\ClothingStore.Domain.Shared\obj\Debug\netstandard2.0\ClothingStore.Domain.Shared.csproj.CoreCompileInputs.cache
+D:\ABPClothingStore\ClothingStore\aspnet-core\src\ClothingStore.Domain.Shared\obj\Debug\netstandard2.0\ClothingStore.Domain.Shared.dll
+D:\ABPClothingStore\ClothingStore\aspnet-core\src\ClothingStore.Domain.Shared\obj\Debug\netstandard2.0\ClothingStore.Domain.Shared.pdb

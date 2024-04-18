@@ -1,0 +1,13 @@
+D:\ABPClothingStore\ClothingStore\aspnet-core\src\ClothingStore.Application.Contracts\bin\Debug\netstandard2.0\ClothingStore.Application.Contracts.deps.json
+D:\ABPClothingStore\ClothingStore\aspnet-core\src\ClothingStore.Application.Contracts\bin\Debug\netstandard2.0\ClothingStore.Application.Contracts.dll
+D:\ABPClothingStore\ClothingStore\aspnet-core\src\ClothingStore.Application.Contracts\bin\Debug\netstandard2.0\ClothingStore.Application.Contracts.pdb
+D:\ABPClothingStore\ClothingStore\aspnet-core\src\ClothingStore.Application.Contracts\bin\Debug\netstandard2.0\ClothingStore.Domain.Shared.dll
+D:\ABPClothingStore\ClothingStore\aspnet-core\src\ClothingStore.Application.Contracts\bin\Debug\netstandard2.0\ClothingStore.Domain.Shared.pdb
+D:\ABPClothingStore\ClothingStore\aspnet-core\src\ClothingStore.Application.Contracts\obj\Debug\netstandard2.0\ClothingStore.Application.Contracts.csproj.AssemblyReference.cache
+D:\ABPClothingStore\ClothingStore\aspnet-core\src\ClothingStore.Application.Contracts\obj\Debug\netstandard2.0\ClothingStore.Application.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+D:\ABPClothingStore\ClothingStore\aspnet-core\src\ClothingStore.Application.Contracts\obj\Debug\netstandard2.0\ClothingStore.Application.Contracts.AssemblyInfoInputs.cache
+D:\ABPClothingStore\ClothingStore\aspnet-core\src\ClothingStore.Application.Contracts\obj\Debug\netstandard2.0\ClothingStore.Application.Contracts.AssemblyInfo.cs
+D:\ABPClothingStore\ClothingStore\aspnet-core\src\ClothingStore.Application.Contracts\obj\Debug\netstandard2.0\ClothingStore.Application.Contracts.csproj.CoreCompileInputs.cache
+D:\ABPClothingStore\ClothingStore\aspnet-core\src\ClothingStore.Application.Contracts\obj\Debug\netstandard2.0\Clothing.D97F5DF3.Up2Date
+D:\ABPClothingStore\ClothingStore\aspnet-core\src\ClothingStore.Application.Contracts\obj\Debug\netstandard2.0\ClothingStore.Application.Contracts.dll
+D:\ABPClothingStore\ClothingStore\aspnet-core\src\ClothingStore.Application.Contracts\obj\Debug\netstandard2.0\ClothingStore.Application.Contracts.pdb

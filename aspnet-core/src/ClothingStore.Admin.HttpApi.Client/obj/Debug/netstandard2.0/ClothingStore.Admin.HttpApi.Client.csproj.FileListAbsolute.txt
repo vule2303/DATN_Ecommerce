@@ -1,0 +1,15 @@
+D:\ABPClothingStore\ClothingStore\aspnet-core\src\ClothingStore.Admin.HttpApi.Client\bin\Debug\netstandard2.0\ClothingStore.Admin.HttpApi.Client.deps.json
+D:\ABPClothingStore\ClothingStore\aspnet-core\src\ClothingStore.Admin.HttpApi.Client\bin\Debug\netstandard2.0\ClothingStore.Admin.HttpApi.Client.dll
+D:\ABPClothingStore\ClothingStore\aspnet-core\src\ClothingStore.Admin.HttpApi.Client\bin\Debug\netstandard2.0\ClothingStore.Admin.HttpApi.Client.pdb
+D:\ABPClothingStore\ClothingStore\aspnet-core\src\ClothingStore.Admin.HttpApi.Client\bin\Debug\netstandard2.0\ClothingStore.Admin.Application.Contracts.dll
+D:\ABPClothingStore\ClothingStore\aspnet-core\src\ClothingStore.Admin.HttpApi.Client\bin\Debug\netstandard2.0\ClothingStore.Domain.Shared.dll
+D:\ABPClothingStore\ClothingStore\aspnet-core\src\ClothingStore.Admin.HttpApi.Client\bin\Debug\netstandard2.0\ClothingStore.Admin.Application.Contracts.pdb
+D:\ABPClothingStore\ClothingStore\aspnet-core\src\ClothingStore.Admin.HttpApi.Client\bin\Debug\netstandard2.0\ClothingStore.Domain.Shared.pdb
+D:\ABPClothingStore\ClothingStore\aspnet-core\src\ClothingStore.Admin.HttpApi.Client\obj\Debug\netstandard2.0\ClothingStore.Admin.HttpApi.Client.csproj.AssemblyReference.cache
+D:\ABPClothingStore\ClothingStore\aspnet-core\src\ClothingStore.Admin.HttpApi.Client\obj\Debug\netstandard2.0\ClothingStore.Admin.HttpApi.Client.GeneratedMSBuildEditorConfig.editorconfig
+D:\ABPClothingStore\ClothingStore\aspnet-core\src\ClothingStore.Admin.HttpApi.Client\obj\Debug\netstandard2.0\ClothingStore.Admin.HttpApi.Client.AssemblyInfoInputs.cache
+D:\ABPClothingStore\ClothingStore\aspnet-core\src\ClothingStore.Admin.HttpApi.Client\obj\Debug\netstandard2.0\ClothingStore.Admin.HttpApi.Client.AssemblyInfo.cs
+D:\ABPClothingStore\ClothingStore\aspnet-core\src\ClothingStore.Admin.HttpApi.Client\obj\Debug\netstandard2.0\ClothingStore.Admin.HttpApi.Client.csproj.CoreCompileInputs.cache
+D:\ABPClothingStore\ClothingStore\aspnet-core\src\ClothingStore.Admin.HttpApi.Client\obj\Debug\netstandard2.0\Clothing.3947BD81.Up2Date
+D:\ABPClothingStore\ClothingStore\aspnet-core\src\ClothingStore.Admin.HttpApi.Client\obj\Debug\netstandard2.0\ClothingStore.Admin.HttpApi.Client.dll
+D:\ABPClothingStore\ClothingStore\aspnet-core\src\ClothingStore.Admin.HttpApi.Client\obj\Debug\netstandard2.0\ClothingStore.Admin.HttpApi.Client.pdb

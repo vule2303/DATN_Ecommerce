@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "UFmzBSVMLalmVqSe5/8HK4Oqw8X0HTvH/bhtAbR+q5U=",
+  "Source": "ClothingStore.Admin.HttpApi.Host",
+  "BasePath": "_content/ClothingStore.Admin.HttpApi.Host",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

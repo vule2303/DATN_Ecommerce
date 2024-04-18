@@ -1,0 +1,5 @@
+is_global = true
+build_property.RootNamespace = ClothingStore
+build_property.ProjectDir = D:\ABPClothingStore\ClothingStore\aspnet-core\src\ClothingStore.HttpApi.Client\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 

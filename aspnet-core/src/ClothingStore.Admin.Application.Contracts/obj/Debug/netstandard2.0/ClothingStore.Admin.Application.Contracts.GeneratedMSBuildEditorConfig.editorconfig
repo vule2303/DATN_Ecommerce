@@ -1,0 +1,5 @@
+is_global = true
+build_property.RootNamespace = ClothingStore.Admin
+build_property.ProjectDir = D:\ABPClothingStore\ClothingStore\aspnet-core\src\ClothingStore.Admin.Application.Contracts\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 

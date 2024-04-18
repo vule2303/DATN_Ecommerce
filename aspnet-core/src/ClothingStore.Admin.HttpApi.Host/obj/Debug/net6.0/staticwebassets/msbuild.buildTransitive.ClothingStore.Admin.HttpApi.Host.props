@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\ClothingStore.Admin.HttpApi.Host.props" />
+</Project>

@@ -1,0 +1,15 @@
+D:\ABPClothingStore\ClothingStore\aspnet-core\src\ClothingStore.Domain\bin\Debug\net6.0\ClothingStore.Domain.deps.json
+D:\ABPClothingStore\ClothingStore\aspnet-core\src\ClothingStore.Domain\bin\Debug\net6.0\ClothingStore.Domain.dll
+D:\ABPClothingStore\ClothingStore\aspnet-core\src\ClothingStore.Domain\bin\Debug\net6.0\ClothingStore.Domain.pdb
+D:\ABPClothingStore\ClothingStore\aspnet-core\src\ClothingStore.Domain\bin\Debug\net6.0\ClothingStore.Domain.Shared.dll
+D:\ABPClothingStore\ClothingStore\aspnet-core\src\ClothingStore.Domain\bin\Debug\net6.0\ClothingStore.Domain.Shared.pdb
+D:\ABPClothingStore\ClothingStore\aspnet-core\src\ClothingStore.Domain\obj\Debug\net6.0\ClothingStore.Domain.csproj.AssemblyReference.cache
+D:\ABPClothingStore\ClothingStore\aspnet-core\src\ClothingStore.Domain\obj\Debug\net6.0\ClothingStore.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\ABPClothingStore\ClothingStore\aspnet-core\src\ClothingStore.Domain\obj\Debug\net6.0\ClothingStore.Domain.AssemblyInfoInputs.cache
+D:\ABPClothingStore\ClothingStore\aspnet-core\src\ClothingStore.Domain\obj\Debug\net6.0\ClothingStore.Domain.AssemblyInfo.cs
+D:\ABPClothingStore\ClothingStore\aspnet-core\src\ClothingStore.Domain\obj\Debug\net6.0\ClothingStore.Domain.csproj.CoreCompileInputs.cache
+D:\ABPClothingStore\ClothingStore\aspnet-core\src\ClothingStore.Domain\obj\Debug\net6.0\Clothing.8B2BA53A.Up2Date
+D:\ABPClothingStore\ClothingStore\aspnet-core\src\ClothingStore.Domain\obj\Debug\net6.0\ClothingStore.Domain.dll
+D:\ABPClothingStore\ClothingStore\aspnet-core\src\ClothingStore.Domain\obj\Debug\net6.0\refint\ClothingStore.Domain.dll
+D:\ABPClothingStore\ClothingStore\aspnet-core\src\ClothingStore.Domain\obj\Debug\net6.0\ClothingStore.Domain.pdb
+D:\ABPClothingStore\ClothingStore\aspnet-core\src\ClothingStore.Domain\obj\Debug\net6.0\ref\ClothingStore.Domain.dll

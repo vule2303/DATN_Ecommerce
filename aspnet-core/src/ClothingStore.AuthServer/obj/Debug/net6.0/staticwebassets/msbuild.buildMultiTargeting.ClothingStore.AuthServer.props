@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\ClothingStore.AuthServer.props" />
+</Project>
